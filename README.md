@@ -1,10 +1,10 @@
-# 📅 Master Planner Pro – Brutalist Daily Productivity Dashboard
+# Master Planner Pro – Brutalist Daily Productivity Dashboard
 
 A client-side personal productivity dashboard featuring interactive date navigation, task management, long-term goal setting, hourly timeline scheduling, and persistent local storage persistence.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Neo-Brutalist Visual Design**: High-contrast typography using *Space Mono* and *Playfair Display* with bold borders and shadows.
 - **Dynamic Interactive Calendar**: Navigate months, view day status indicators (daily, monthly, quarterly markers).
@@ -15,7 +15,7 @@ A client-side personal productivity dashboard featuring interactive date navigat
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 Open `index.html` directly in any modern browser, or serve with:
 
@@ -26,7 +26,7 @@ python3 -m http.server 8080
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 - **Framework**: Alpine.js v3
 - **CSS**: Tailwind CSS
@@ -35,6 +35,6 @@ python3 -m http.server 8080
 
 ---
 
-## 📄 License
+## License
 
 MIT License.
